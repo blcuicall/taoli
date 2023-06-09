@@ -123,3 +123,4 @@ torch.save(new_state_dict, "./ckpt/consolidated.00.pth")
 
 with open("./ckpt/params.json", "w") as f:
     json.dump(params, f)
+

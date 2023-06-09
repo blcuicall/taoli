@@ -9,4 +9,3 @@ fire
 git+https://github.com/huggingface/peft.git
 transformers>=4.28.0
 sentencepiece
-torch==1.13.1+cu117
