@@ -167,7 +167,7 @@ def main(
     with open('test.txt', 'r', encoding='utf8') as data, open('output.txt', 'w', encoding='utf8') as output:
         for line in data:
             test_line = line.strip().split('\t')[0]
-            instruction = "请修改下列句子，使句子更加流利。"
+            instruction = "your instructions"
             tokens = str(list(evaluate(instruction=instruction, input=test_line))[0])
             output.write(tokens)
             output.write('\n')
