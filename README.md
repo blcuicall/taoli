@@ -157,7 +157,7 @@ https://github.com/ymcui/Chinese-LLaMA-Alpaca
 ```Plaintext
 
 @misc{Taoli-LLama,
-  author={Jingsi Yu and Junhui Zhu and Yujie Wang and Yang Liu and Hongxiang Chang and Jinran Nie and Cunliang Kong and Ruining Cong and XinLiu and Jiyuan An and Luming Lu and Mingwei Fang and Lin Zhu},
+  author={Jingsi Yu and Junhui Zhu and Yujie Wang and Yang Liu and Hongxiang Chang and Jinran Nie and Cunliang Kong and Ruining Chong and XinLiu and Jiyuan An and Luming Lu and Mingwei Fang and Lin Zhu},
   title={Taoli Llama},
   year={2023},
   publisher={GitHub},
